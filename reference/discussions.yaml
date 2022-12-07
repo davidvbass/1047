@@ -161,8 +161,8 @@ paths:
       summary: ''
       operationId: patch-user
       responses:
-        '205':
-          description: Reset Content
+        '101':
+          description: Switching Protocols
 components:
   schemas:
     User:
