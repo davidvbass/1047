@@ -161,8 +161,8 @@ paths:
       summary: ''
       operationId: patch-user
       responses:
-        '200':
-          description: OK
+        '205':
+          description: Reset Content
 components:
   schemas:
     User:
