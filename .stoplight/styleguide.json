@@ -2,6 +2,9 @@
   "name": "1047",
   "description": "",
   "spectralExtends": [],
+  "extends": [
+    "cHJqOjE@1"
+  ],
   "formats": [
     "oas2",
     "oas3",
@@ -10,9 +13,6 @@
   ],
   "aliases": {},
   "rules": {},
-  "extends": [
-    "cHJqOjE@1"
-  ],
   "extendedStyleguides": [
     {
       "id": "cHJqOjE",
